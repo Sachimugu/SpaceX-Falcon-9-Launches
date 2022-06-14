@@ -1,0 +1,133 @@
+Flight No.,Date,Launch site,Payload,Payload mass,Orbit,Customer,Launch Outcome,Booster Landing,Version Booster
+1,2010-06-04,"CCAFS,SLC-40",Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure,F9 v1.0B0003.1
+2,2010-12-08,"CCAFS,SLC-40",Dragon demo flight C1(Dragon C101),,LEO ,NASA ,Success,Failure,F9 v1.0B0004.1
+3,2012-05-22,"CCAFS,SLC-40",Dragon demo flight C2+,525 ,LEO ,NASA ,Success,No attempt,F9 v1.0B0005.1
+4,2012-10-08,"CCAFS,SLC-40",SpaceX CRS-1,"4,700 ",LEO ,NASA ,Success,No attempt,F9 v1.0B0006.1
+4,2012-10-08,"CCAFS,SLC-40",Orbcomm-OG2,172 ,LEO,Orbcomm,Partial failure,No attempt,F9 v1.0B0006.1
+5,2013-03-01,"CCAFS,SLC-40",SpaceX CRS-2,"4,877 ",LEO ,NASA ,Success,No attempt,F9 v1.0B0007.1
+6,2013-09-29,"VAFB,SLC-4E",CASSIOPE,500 ,Polar orbit LEO,MDA,Success,Uncontrolled(ocean)[d],F9 v1.1B1003
+7,2013-12-03,"CCAFS,SLC-40",SES-8,"3,170 ",GTO,SES,Success,No attempt,F9 v1.1B1004
+8,2014-01-06,"CCAFS,SLC-40",Thaicom 6,"3,325 ",GTO,Thaicom,Success,No attempt,F9 v1.1
+9,2014-04-18,"Cape Canaveral,LC-40",SpaceX CRS-3,"2,296 ",LEO ,NASA ,Success,Controlled(ocean) [d],F9 v1.1
+10,2014-07-14,"Cape Canaveral,LC-40",Orbcomm-OG2-1(6 satellites),"1,316 ",LEO,Orbcomm,Success,Controlled(ocean)[d],F9 v1.1
+11,2014-08-05,"Cape Canaveral,LC-40",AsiaSat 8,"4,535 ",GTO,AsiaSat,Success,No attempt,F9 v1.1
+12,2014-09-07,"Cape Canaveral,LC-40",AsiaSat 6,"4,428 ",GTO,AsiaSat,Success,No attempt,F9 v1.1B1011
+13,2014-09-21,"Cape Canaveral,LC-40",SpaceX CRS-4,"2,216 ",LEO ,NASA ,Success,Uncontrolled(ocean)[d],F9 v1.1B1010
+14,2015-01-10,"Cape Canaveral,LC-40",SpaceX CRS-5,"2,395 ",LEO ,NASA ,Success,Failure (drone ship),F9 v1.1B1012
+15,2015-02-11,"Cape Canaveral,LC-40",DSCOVR,570 ,HEO,USAF NASA NOAA,Success,Controlled(ocean)[d],F9 v1.1B1013
+16,2015-03-02,"Cape Canaveral,LC-40",ABS-3A Eutelsat 115 West B,"4,159 ",GTO,ABS Eutelsat,Success,No attempt,F9 v1.1B1014
+17,2015-04-14,"Cape Canaveral,LC-40",SpaceX CRS-6,"1,898 ",LEO ,NASA ,Success,Failure,F9 v1.1B1015
+18,2015-04-27,"Cape Canaveral,LC-40",TürkmenÄlem 52°E / MonacoSAT,"4,707 ",GTO,Turkmenistan NationalSpace Agency[88],Success,No attempt,F9 v1.1B1016
+19,2015-06-28,"Cape Canaveral,LC-40",SpaceX CRS-7,"1,952 ",LEO ,NASA ,Failure,Precluded,F9 v1.1B1018
+20,2015-12-22,"Cape Canaveral,LC-40",Orbcomm-OG2-2(11 satellites),"2,034 ",LEO,Orbcomm,Success,Success,F9 FTB1019.1[98]
+21,2016-01-17,"VAFB,SLC-4E",Jason-3,553 ,LEO,NASA ,Success,Failure(drone ship),F9 v1.1B1017
+22,2016-03-04,"Cape Canaveral,LC-40",SES-9,"5,271 ",GTO,SES,Success,Failure(drone ship),F9 FTB1020.1[108]
+23,2016-04-08,"Cape Canaveral,LC-40",SpaceX CRS-8,"3,136 ",LEO ,NASA ,Success,Success,F9 FTB1021.1[115]
+24,2016-05-06,"Cape Canaveral,LC-40",JCSAT-14,"4,696 ",GTO,SKY Perfect JSAT Group,Success,Success(drone ship),F9 FTB1022.1[122]
+25,2016-05-27,"Cape Canaveral,LC-40",Thaicom 8,"3,100 ",GTO,Thaicom,Success,Success,F9 FTB1023.1[129]
+26,2016-06-15,"Cape Canaveral,LC-40",ABS-2A Eutelsat 117 West B,"3,600 ",GTO,ABS Eutelsat,Success,Failure,F9 FTB1024.1[108]
+27,2016-07-18,"Cape Canaveral,LC-40",SpaceX CRS-9,"2,257 ",LEO ,NASA ,Success,Success(ground pad),F9 FTB1025.1[129]
+28,2016-08-14,"Cape Canaveral,LC-40",JCSAT-16,"4,600 ",GTO,SKY Perfect JSAT Group,Success,Success(drone ship),F9 FTB1026.1[108]
+N/A [e],2016-09-03,"Cape Canaveral,LC-40",Amos-6,"5,500 ",GTO,Spacecom,Precluded(failure pre-flight),Precluded(drone ship),F9 FT B1028.1[108]
+29,2017-01-14,"VAFB,SLC-4E",Iridium NEXT-1(10 satellites),"9,600 ",Polar LEO,Iridium Communications,Success,Success,F9 FTB1029.1[151]
+30,2017-02-19,"KSC,LC-39A",SpaceX CRS-10,"2,490 ",LEO ,NASA ,Success,Success(ground pad),F9 FTB1031.1
+31,2017-03-16,"KSC,LC-39A",EchoStar 23,"5,600 ",GTO,EchoStar,Success,No attempt,F9 FTB1030.1[163]
+32,2017-03-30,"KSC,LC-39A",SES-10,"5,300 ",GTO,SES,Success,Success(drone ship),F9 FT ♺B1021.2[115]
+33,2017-05-01,"KSC,LC-39A",NROL-76,Classified,LEO[175],NRO,Success,Success(ground pad),F9 FTB1032.1[129]
+34,2017-05-15,"KSC,LC-39A",Inmarsat-5 F4,"6,070 ",GTO,Inmarsat,Success,No attempt,F9 FTB1034.1[179]
+35,2017-06-03,"KSC,LC-39A",SpaceX CRS-11,"2,708 ",LEO ,NASA ,Success,Success(ground pad),F9 FTB1035.1[185]
+36,2017-06-23,"KSC,LC-39A",BulgariaSat-1,"3,669 ",GTO,Bulsatcom,Success,Success(drone ship),F9 FT ♺ B1029.2[195]
+37,2017-06-25,"VAFB,SLC-4E",Iridium NEXT-2(10 satellites),"9,600 ",LEO,Iridium Communications,Success,Success(drone ship),F9 FTB1036.1[198]
+38,2017-07-05,"KSC,LC-39A",Intelsat 35e,"6,761 ",GTO,Intelsat,Success,No attempt,F9 FTB1037.1[200]
+39,2017-08-14,"KSC,LC-39A",SpaceX CRS-12,"3,310 ",LEO ,NASA ,Success,Success(ground pad),F9 B4B1039.1[207]
+40,2017-08-24,"VAFB,SLC-4E",Formosat-5,475 ,SSO,NSPO,Success,Success(drone ship),F9 FTB1038.1[209]
+41,2017-09-07,"KSC,LC-39A",Boeing X-37B OTV-5,"4,990 ",LEO,USAF,Success,Success(ground pad),F9 B4B1040.1[108]
+42,2017-10-09,"VAFB,SLC-4E",Iridium NEXT-3(10 satellites),"9,600 ",Polar LEO,Iridium Communications,Success,Success(drone ship),F9 B4B1041.1[219]
+43,2017-10-11,"KSC,LC-39A",SES-11 / EchoStar 105,"5,200 ",GTO,SES S.A. EchoStar,Success,Success(drone ship),F9 FT ♺ B1031.2[220]
+44,2017-10-30,"KSC,LC-39A",Koreasat 5A,"3,500 ",GTO,KT Corporation,Success,Success(drone ship),F9 B4B1042.1[219]
+45,2017-12-15,"Cape Canaveral,SLC-40",SpaceX CRS-13,"2,205 ",LEO ,NASA ,Success,Success(ground pad),F9 FT ♺ B1035.2[227]
+46,2017-12-23,"VAFB,SLC-4E",Iridium NEXT-4(10 satellites),"9,600 ",Polar LEO,Iridium Communications,Success,Controlled(ocean)[d],F9 FT ♺ B1036.2[227]
+47,2018-01-08,"CCAFS,SLC-40",Zuma,Classified,LEO,Northrop Grumman [f][238],Success,Success(ground pad),F9 B4B1043.1[238]
+48,2018-01-31,"CCAFS,SLC-40",GovSat-1 (SES-16),"4,230 ",GTO,SES,Success,Controlled(ocean)[d],F9 FT ♺ B1032.2[245]
+FH 1,2018-02-06,"KSC,LC-39A",Elon Musk's Tesla Roadster,"~1,250 ",Heliocentric0.99–1.67 AU[256],SpaceX,Success,Failure,Falcon HeavyB1033.1 (core)[129]
+FH 1,2018-02-06,"KSC,LC-39A",Elon Musk's Tesla Roadster,"~1,250 ",Heliocentric0.99–1.67 AU[256],SpaceX,Success,Success(ground pad),B1023.2 (side) ♺
+FH 1,2018-02-06,"KSC,LC-39A",Elon Musk's Tesla Roadster,"~1,250 ",Heliocentric0.99–1.67 AU[256],SpaceX,Success,Success(ground pad),B1025.2 (side) ♺
+49,2018-02-22,"VAFB,SLC-4E",Paz,"2,150 ",SSO,Hisdesat exactEarth SpaceX,Success,No attempt,F9 FT ♺B1038.2[268]
+50,2018-03-06,"CCAFS,SLC-40",Hispasat 30W-6,"6,092 ",GTO,Hispasat[277] NovaWurks,Success,No attempt,F9 B4B1044.1[108]
+51,2018-03-30,"VAFB,SLC-4E",Iridium NEXT-5(10 satellites),"9,600 ",Polar LEO,Iridium Communications,Success,No attempt,F9 B4 ♺B1041.2[268]
+52,2018-04-02,"CCAFS,SLC-40",SpaceX CRS-14,"2,647 ",LEO ,NASA ,Success,No attempt,F9 B4 ♺B1039.2[292]
+53,2018-04-18,"CCAFS,SLC-40",Transiting Exoplanet Survey Satellite (TESS),362 ,HEO for P/2 orbit,NASA ,Success,Success,F9 B4B1045.1[268]
+54,2018-05-11,"KSC,LC-39A",Bangabandhu-1,"3,600 ",GTO,Thales-Alenia / BTRC,Success,Success,F9 B5[311]B1046.1[268]
+55,2018-05-22,"VAFB,SLC-4E",Iridium NEXT-6(5 satellites),"6,460 ",Polar LEO,Iridium Communications GFZ • NASA,Success,No attempt,F9 B4 ♺B1043.2[322]
+56,2018-06-04,"CCAFS,SLC-40",SES-12,"5,384 ",GTO,SES,Success,No attempt,F9 B4 ♺B1040.2[268]
+57,2018-06-29,"CCAFS,SLC-40",SpaceX CRS-15(Dragon C111.2 ♺),"2,697 ",LEO ,NASA ,Success,No attempt,F9 B4 ♺B1045.2[336]
+58,2018-07-22,"CCAFS,SLC-40",Telstar 19V,"7,075 ",GTO[343],Telesat,Success,Success,F9 B5B1047.1
+59,2018-07-25,"VAFB,SLC-4E",Iridium NEXT-7(10 satellites),"9,600 ",Polar LEO,Iridium Communications,Success,Success,F9 B5[349]B1048.1[350]
+60,2018-08-07,"CCAFS,SLC-40",Merah Putih (formerly Telkom 4),"5,800 ",GTO,Telkom Indonesia,Success,Success,F9 B5 ♺ B1046.2[354]
+61,2018-09-10,"CCAFS,SLC-40",Telstar 18V / Apstar-5C,"7,060 ",GTO[361],Telesat,Success,Success,F9 B5B1049.1[268]
+62,2018-10-08,"VAFB,SLC-4E",SAOCOM 1A,"3,000 ",SSO,CONAE,Success,Success,F9 B5 ♺B1048.2[364]
+63,2018-11-15,"KSC,LC-39A",Es'hail 2,"5,300 ",GTO,Es'hailSat,Success,Success,F9 B5 ♺B1047.2[268]
+64,2018-12-03,"VAFB,SLC-4E",SSO-A (SmallSat Express),"~4,000 ",SSO,Spaceflight Industries,Success,Success,F9 B5 ♺ B1046.3[268]SHERPA
+65,2018-12-05,"CCAFS,SLC-40",SpaceX CRS-16(Dragon C112.2♺ ),"2,500 ",LEO ,NASA ,Success,Failure,F9 B5B1050[268]
+66,2018-12-23,"CCAFS,SLC-40",GPS III-01 (Vespucci),"4,400 ",MEO,USAF,Success,No attempt,F9 B5B1054[387]
+67,2019-01-11,"VAFB,SLC-4E",Iridium NEXT-8(10 satellites),"9,600 ",Polar LEO,Iridium Communications,Success,Success(drone ship),F9 B5 ♺B1049.2[397]
+68,2019-02-22,"CCAFS,SLC-40",Nusantara Satu (PSN-6),"4,850 ",GTO,PSN SpaceIL / IAI Air Force Research,Success,Success(drone ship),F9 B5 ♺B1048.3[399]
+69,2019-03-02,"KSC,LC-39A",Crew Dragon Demo-1,"12,055 ",LEO ,NASA ,Success,Success(drone ship),F9 B5B1051.1[268][413]
+FH 2,2019-04-11,"KSC,LC-39A",Arabsat-6A,"6,465 ",GTO,Arabsat,Success,Success[i](drone ship),Falcon HeavyB1055 core[421]
+FH 2,2019-04-11,"KSC,LC-39A",Arabsat-6A,"6,465 ",GTO,Arabsat,Success,Success(ground pad),B1052.1(side)
+FH 2,2019-04-11,"KSC,LC-39A",Arabsat-6A,"6,465 ",GTO,Arabsat,Success,Success(ground pad),B1053.1(side)
+70,2019-05-04,"CCAFS,SLC-40",SpaceX CRS-17,"2,495 ",LEO ,NASA ,Success,Success(drone ship),F9 B5B1056.1[420]
+71,2019-05-24,"CCAFS,SLC-40",Starlink v0.9 (60 satellites),"13,620 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1049.3[434]
+72,2019-06-12,"VAFB,SLC-4E",RADARSAT Constellation(3 satellites),"4,200 ",SSO,Canadian Space Agency ,Success,Success(ground pad),F9 B5 ♺B1051.2[420]
+FH 3,2019-06-25,"KSC,LC-39A",Space Test Program Flight 2 (STP-2),"3,700 ",LEO / MEO,USAF,Success,Failure(drone ship),Falcon HeavyB1057 core[420]
+FH 3,2019-06-25,"KSC,LC-39A",Space Test Program Flight 2 (STP-2),"3,700 ",LEO / MEO,USAF,Success,Success(ground pad),B1052.2(side) ♺
+FH 3,2019-06-25,"KSC,LC-39A",Space Test Program Flight 2 (STP-2),"3,700 ",LEO / MEO,USAF,Success,Success(ground pad),B1053.2(side) ♺
+73,2019-07-25,CCAFSSLC-40,SpaceX CRS-18,"2,268 ",LEO ,NASA ,Success,Success(ground pad),F9 B5 ♺B1056.2[465]
+74,2019-08-06,"CCAFS,SLC-40",AMOS-17,"6,500 ",GTO,Spacecom,Success,No attempt,F9 B5 ♺B1047.3[472]
+75,2019-11-11,"CCAFS,SLC-40",Starlink 1 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1048.4
+76,2019-12-05,"CCAFS,SLC-40",SpaceX CRS-19,"2,617 ",LEO ,NASA ,Success,Success(drone ship),F9 B5B1059.1[482]
+77,2019-12-17,"CCAFS,SLC-40",JCSat-18 / Kacific 1,"6,956 ",GTO,Sky Perfect JSATKacific 1,Success,Success(drone ship),F9 B5 ♺B1056.3[482]
+78,2020-01-07,"CCAFS,SLC-40",Starlink 2 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺ B1049.4
+79,2020-01-19,"KSC,LC-39A",Crew Dragon in-flight abort test,"12,050 ",Sub-orbital[496],NASA ,Success,No attempt,F9 B5 ♺ B1046.4
+80,2020-01-29,"CCAFS,SLC-40",Starlink 3 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1051.3
+81,2020-02-17,"CCAFS,SLC-40",Starlink 4 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Failure(drone ship),F9 B5 ♺B1056.4
+82,2020-03-07,"CCAFS,SLC-40",SpaceX CRS-20(Dragon C112.3 ♺),"1,977 ",LEO ,NASA ,Success,Success(ground pad),F9 B5 ♺B1059.2
+83,2020-03-18,"KSC,LC-39A",Starlink 5 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Failure(drone ship),F9 B5 ♺ B1048.5
+84,2020-04-22,"KSC,LC-39A",Starlink 6 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1051.4
+85,2020-05-30,"KSC,LC-39A",Crew Dragon Demo-2,"12,530 ",LEO ,NASA ,Success,Success(drone ship),F9 B5B1058.1[518]
+86,2020-06-04,"CCAFS,SLC-40",Starlink 7 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1049.5
+87,2020-06-13,"CCAFS,SLC-40","Starlink 8 v1.0 (58 satellites),","15,410 ",LEO,SpaceXPlanet Labs,Success,Success(drone ship),F9 B5 ♺B1059.3
+88,2020-06-30,"CCAFS,SLC-40",GPS III-03 (Matthew Henson),"4,311 ",MEO,U.S. Space Force[530],Success,Success(drone ship),F9 B5B1060.1
+89,2020-07-20,"CCAFS,SLC-40",ANASIS-II,"5,000–6,000 ",GTO,Republic of Korea Army,Success,Success(drone ship),F9 B5 ♺ B1058.2[544]
+90,2020-08-07,"KSC,LC-39A","Starlink 9 v1.0 (57 Satellites),","14,932 ",LEO,SpaceXSpaceflight Industries ,Success,Success(drone ship),F9 B5 ♺B1051.5
+91,2020-08-18,"CCAFS,SLC-40","Starlink 10 v1.0 (58 satellites)SkySat-19, -20, -21","~15,440 ",LEO,SpaceXPlanet Labs,Success,Success(drone ship),F9 B5 ♺B1049.6[544]
+92,2020-08-30,"CCAFS,SLC-40",SAOCOM 1B,"3,130 ",SSO,CONAEPlanetIQTyvak,Success,Success(ground pad),F9 B5 ♺B1059.4
+93,2020-09-03,"KSC,LC-39A",Starlink 11 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1060.2[563]
+94,2020-10-06,"KSC,LC-39A",Starlink 12 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1058.3[565]
+95,2020-10-18,"KSC,LC-39A",Starlink 13 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1051.6[568]
+96,2020-10-24,"CCAFS,SLC-40",Starlink 14 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1060.3
+97,2020-11-05,"CCAFS,SLC-40",GPS III-04 (Sacagawea),"4,311 ",MEO,USSF,Success,Success(drone ship),F9 B5B1062.1
+98,2020-11-16,"KSC,LC-39A",Crew-1(Crew Dragon C207.1 Resilience),"~12,500 ",LEO ,NASA ,Success,Success(drone ship),F9 B5B1061.1[582]
+99,2020-11-21,"VAFB,SLC-4E",Sentinel-6 Michael Freilich (Jason-CS A),"1,192 ",LEO,NASA / NOAA / ESA / EUMETSAT,Success,Success(ground pad),F9 B5B1063.1
+100,2020-11-25,"CCAFS,SLC-40",Starlink 15 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1049.7[590]
+101,2020-12-06,"KSC,LC-39A",SpaceX CRS-21(Dragon C208.1),"2,972 ",LEO ,NASA ,Success,Success(drone ship),F9 B5 ♺B1058.4[592]
+102,2020-12-13,"CCSFS,SLC-40[597]",SXM-7,"7,000 ",GTO,Sirius XM,Success,Success(drone ship),F9 B5 ♺B1051.7
+103,2020-12-19,"KSC,LC-39A",NROL-108,Classified,LEO,NRO,Success,Success(ground pad),F9 B5 ♺B1059.5
+104,2021-01-08,"CCSFS,SLC-40",Türksat 5A,"3,500 ",GTO,Türksat,Success,Success(drone ship),F9 B5 ♺B1060.4
+105,2021-01-20,"KSC,LC-39A",Starlink 16 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1051.8[609]
+106,2021-01-24,"CCSFS,SLC-40",Transporter-1 (143 smallsat rideshare),"~5,000 ",SSO,Various,Success,Success(drone ship),F9 B5 ♺B1058.5[613]
+107,2021-02-04,"CCSFS,SLC-40",Starlink 18 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1060.5[624]
+108,2021-02-16,"CCSFS,SLC-40",Starlink 19 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Failure (drone ship),F9 B5 ♺B1059.6
+109,2021-03-04,"KSC,LC-39A",Starlink 17 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1049.8[634]
+110,2021-03-11,"CCSFS,SLC-40",Starlink 20 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1058.6[638]
+111,2021-03-14,"KSC,LC-39A",Starlink 21 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1051.9
+112,2021-03-24,"CCSFS,SLC-40",Starlink 22 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1060.6[643]
+113,2021-04-07,"CCSFS,SLC-40",Starlink 23 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1058.7
+114,2021-04-23,"KSC,LC-39A",Crew-2(Crew Dragon C206.2 Endeavour ♺),"~13,000 ",LEO ,NASA ,Success,Success(drone ship),F9 B5 ♺B1061.2[647]
+115,2021-04-29,"CCSFS,SLC-40",Starlink 24 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1060.7[652]
+116,2021-05-04,"KSC,LC-39A",Starlink 25 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1049.9[655]
+117,2021-05-09,"CCSFS,SLC-40",Starlink 27 v1.0 (60 satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1051.10[657]
+118,2021-05-15,"KSC,LC-39A[661]",Starlink 26 v1.0 (52 Satellites) Capella-6 &Tyvak-0130,"~14,000 ",LEO,SpaceX Capella Space and Tyvak,Success,Success(drone ship),F9 B5 ♺B1058.8[660]
+119,2021-05-26,"CCSFS,SLC-40[665]",Starlink 28 v1.0 (60 Satellites),"15,600 ",LEO,SpaceX,Success,Success(drone ship),F9 B5 ♺B1063.2[665]
+120,2021-06-03,"KSC,LC-39A",SpaceX CRS-22(Dragon C209.1),"3,328 ",LEO ,NASA ,Success,Success(drone ship),F9 B5 B1067.1[668]
+121,2021-06-06,"CCSFS,SLC-40",SXM-8,"7,000 ",GTO,Sirius XM,Success,Success(drone ship),F9 B5 ♺ B1061.3
